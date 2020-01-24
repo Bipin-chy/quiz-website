@@ -1,0 +1,17 @@
+STEPS FOR HOSTING A WEB PAGE IN AZURE
+
+1.Open my azure portal 
+2.click on create a resource
+3.click on web
+4.go to new
+5.check your subsciption
+6.create a resource group if you dont have any
+7.Provide the details according to your use
+8.check for the plans 
+9.make sure to check everything ranging prices to subscription terms each and every aspect.
+10.Proceed with create
+11.Wait for the website deplyoment
+12.once deployed open it and go for the deplyoment of code
+13.Link your GIT hub and deploy the code
+14.Wait for the process
+15.Congrats!! you got your first website hosted
