@@ -43,15 +43,15 @@ function showScores() {
 
 // create questions
 var questions = [
-    new Question("Gurugram is in which state?", ["haryana", "Punjab","Delhi", "UP"], "Haryana"),
+    new Question("Which company is the biggest contributor of open source?", ["Google", "Amazon","Microsoft", "Facebook"], "Microsoft"),
 
-    new Question("National Animal of India?", ["Elephant", "Bengal Tiger","Lion", "Cow"], "Bengal Tiger"),
+    new Question("3. You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you??", ["IAAS", "PAAS","SAAS", "None"], "IAAS"),
     
 
-    new Question("National River of India?", ["Yamuna", "Ganga","Brahmputra", "Sindhu"], "Ganga"),
+    new Question("Which term from the list below would be viewed as benefits of using cloud services?", ["Unpredictable costs", "Elasticity","Local reach only", "free"], "Elasticity"),
     
 
-    new Question("Currency of India?", ["Dollar", "Rupee","Euro", "Pound"], "Rupee"),
+    new Question("how do you like the session", ["1", "2","3", "4"], "4"),
         
 
 ];
